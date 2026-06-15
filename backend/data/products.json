@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Apple AirPods Pro (2nd Gen)",
+    "price": 24900,
+    "description": "Premium wireless earbuds with Active Noise Cancellation, spatial audio, and adaptive transparency mode.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?auto=format&fit=crop&w=600&q=80"
+      }
+    ],
+    "category": "Earbuds",
+    "seller": "Apple Store",
+    "stock": 18
+  },
+  {
+    "name": "Samsung 55-inch 4K Smart TV",
+    "price": 52999,
+    "description": "Ultra HD Smart TV with Crystal Display, built-in apps, and voice assistant support.",
+    "ratings": 4.6,
+    "images": [
+      {
+        "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?auto=format&fit=crop&w=600&q=80"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "Samsung",
+    "stock": 7
+  },
+  {
+    "name": "Redmi Note 13 Pro",
+    "price": 18999,
+    "description": "Powerful smartphone with high-resolution camera, fast processor, and long battery life.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=600&q=80"
+      }
+    ],
+    "category": "Smartphones",
+    "seller": "Xiaomi",
+    "stock": 22
+  },
+  {
+    "name": "HP Pavilion Gaming Laptop",
+    "price": 68999,
+    "description": "Gaming laptop with powerful GPU, fast processor, and immersive display.",
+    "ratings": 4.4,
+    "images": [
+      {
+        "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=600&q=80"
+      }
+    ],
+    "category": "Laptops",
+    "seller": "HP",
+    "stock": 9
+  },
+  {
+    "name": "Fossil Gen 6 Smartwatch",
+    "price": 15999,
+    "description": "Premium smartwatch with fitness tracking, GPS, and smart notifications.",
+    "ratings": 4.3,
+    "images": [
+      {
+        "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=600&q=80"
+      }
+    ],
+    "category": "Wearables",
+    "seller": "Fossil",
+    "stock": 14
+  },
+  {
+    "name": "Nike Air Zoom Running Shoes",
+    "price": 7499,
+    "description": "Lightweight running shoes designed for speed, comfort, and durability.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=600&q=80"
+      }
+    ],
+    "category": "Footwear",
+    "seller": "Nike",
+    "stock": 30
+  },
+  {
+    "name": "Canon EOS 1500D DSLR Camera",
+    "price": 38999,
+    "description": "Entry-level DSLR camera with high-quality imaging and Full HD video recording.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=600&q=80"
+      }
+    ],
+    "category": "Cameras",
+    "seller": "Canon",
+    "stock": 6
+  },
+  {
+    "name": "Sony WH-1000XM5 Headphones",
+    "price": 29990,
+    "description": "Industry-leading noise cancelling headphones with premium sound quality.",
+    "ratings": 4.9,
+    "images": [
+      {
+        "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=600&q=80"
+      }
+    ],
+    "category": "Audio",
+    "seller": "Sony",
+    "stock": 11
+  }
+]
