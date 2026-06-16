@@ -7,3 +7,4 @@ const connectDatabase = () => {
 };
 
 module.exports = connectDatabase;
+//DB_URL=mongodb+srv://Subasri:WQRvuG32OlbJF1fw@mern.4r8wq0n.mongodb.net/?appName=MERN//

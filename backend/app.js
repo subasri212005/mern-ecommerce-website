@@ -5,6 +5,8 @@ const path = require('path');
 const cors = require('cors');
 const connectDatabase = require('./config/connectDatabase');
 dotenv.config({path: path.join(__dirname, 'config', 'config.env')})
+const dns = require('dns');
+dns.setServers(['1.1.1.1', '8.8.8.8']);
 
 const products = require('./routes/product');
 const orders = require('./routes/order');
