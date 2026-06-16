@@ -8,6 +8,10 @@ dotenv.config({path: path.join(__dirname, 'config', 'config.env')})
 const dns = require('dns');
 dns.setServers(['1.1.1.1', '8.8.8.8']);
 
+app.use(cors({
+  origin: "*"
+}));
+
 const products = require('./routes/product');
 const orders = require('./routes/order');
 
