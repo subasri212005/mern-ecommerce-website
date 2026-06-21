@@ -65,8 +65,9 @@ Add authentication (JWT)
 Add payment gateway
 Improve UI design
 Add product categories & filters
-👨‍💻 Author
 
+
+👨‍💻 Author
 Subasri
 
 ⭐ Support
