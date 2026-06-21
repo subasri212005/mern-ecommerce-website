@@ -24,7 +24,6 @@ It provides product listing, product details, and order management using MongoDB
 
 **Frontend:**
 - React.js
-- Axios
 - React Router DOM
 - CSS
 
@@ -55,10 +54,7 @@ mern-ecommerce-project
 
 
 ---
-🧠 Notes
-MongoDB collections are created automatically
-Frontend communicates with backend using Axios
-Backend serves frontend in production mode
+
 📌 Future Improvements
 Add cart system
 Add authentication (JWT)
